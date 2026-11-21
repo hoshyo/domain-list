@@ -1,0 +1,18 @@
+payload:
+  # DMM 全站及 FANZA
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,fanza.jp
+  # fanza.co.jp 有历史注册记录，公开入口待核实
+  # - DOMAIN-SUFFIX,fanza.co.jp
+
+  # 日本漫画与电子书
+  - DOMAIN-SUFFIX,piccoma.com
+  - DOMAIN-SUFFIX,cmoa.jp
+  - DOMAIN-SUFFIX,booklive.jp
+  - DOMAIN-SUFFIX,honto.jp
+  - DOMAIN,dbook.docomo.ne.jp
+
+  # 部分海外地区或作品受限
+  - DOMAIN-SUFFIX,dlsite.com
+  - DOMAIN,renta.papy.co.jp
